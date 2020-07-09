@@ -62,7 +62,7 @@ def ArtificalNeuronProgram():
 
 #-------networking / sockets section ---------
 
-#each neuron runs as both server and client?
+#p2p networking scheme
 
 
 
