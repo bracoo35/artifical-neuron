@@ -1,5 +1,17 @@
+''' general notes
+1. create a general AN program to be run on target machines
+  - is each machine 1 neuron, or program has setup options - i.e. create 100 neurons on this machine...? ( or run the program 100 times?)
+        - feasibility issues?
+2.  networking component of program
+    - p2p // decentralized
+        - each machine ( or each neuron? ) is a client&server  // node // host/owner
+
+
+
+'''
+
 # note: 3 distinct classes of neurons in biology - sensory, motor, interneurons
-# another possible class- neural circut:a group of connected neurons
+# another possible class- neural circut: a group of connected neurons
 
 def ArtificalNeuronProgram():
 
@@ -63,6 +75,9 @@ def ArtificalNeuronProgram():
 #-------networking / sockets section ---------
 
 #p2p networking scheme
+
+
+#https://www.youtube.com/watch?v=oCS05QSQ-1k  important parts: 7:50
 
 
 
